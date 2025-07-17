@@ -57,10 +57,3 @@ Future Improvements
 * Encrypt passwords and files
 * Real-time multitasking simulation
 * Admin-level user management
-
-License
-This project is open source and free to use for learning purposes.
-
-—
-
-Let me know when you're ready for the next one (Smart Solar Panel Cleaning System), or if you’d like any edits to this one first.
